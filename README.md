@@ -31,8 +31,8 @@ Users will be able to:
 
 ### Links
 
-- Code URL: [Github](https://github.com/Raunak40/Product_Preview)
-- Live Site URL: [shimmering-squirrel-76974c](https://shimmering-squirrel-76974c.netlify.app)
+- Code URL: [Github](https://github.com/Raunak40/Passenger_Counter_2.0)
+- Live Site URL: [reliable-cucurucho-3acb79](https://reliable-cucurucho-3acb79.netlify.app)
 
 ## My process
 
@@ -54,6 +54,6 @@ There are so many things which I have to continue improve in this site like addi
 
 ## Author
 
-- Website - [Raunak Raj](https://shimmering-squirrel-76974c.netlify.app)
+- Website - [Raunak Raj](https://reliable-cucurucho-3acb79.netlify.app)
 - Frontend Mentor - [@Raunak40](https://www.frontendmentor.io/profile/Raunak40)
 - Github - [Raunak40](https://github.com/Raunak40)
