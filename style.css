@@ -1,0 +1,75 @@
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+
+/* Typography */
+
+img{
+    width: 100%;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 0;
+    font-size: 2em;
+}
+
+p, button{
+    font-family: 'Playfair Display', serif;
+}
+
+/* Layout */
+
+body{
+    margin: 0;
+    background-image: url("image/train.jpg");
+    background-size: cover;
+    height: auto;
+}
+
+.hero{
+    width:50%;
+    border: 4px solid;
+    border-radius: .7em;
+    background-color:hsla(180, 46%, 30%, 0.8);
+    margin: 10% auto;
+    text-align: center;
+}
+
+.count-el{
+    font-size: 6rem;
+    font-weight: bolder;
+    margin: 0 auto 30px;
+}
+
+.increment-btn{
+    background-color:#B0240B;
+}
+
+.save-btn{
+    background-color:#CA7D14;
+    margin-top: 10px;
+}
+
+.save-btn, .increment-btn{
+    font-weight: bold;
+    font-size: 1em;
+    width: 8em;
+    border: 2px solid rgba(0, 0, 0, 0.841);
+    border-radius: 10px;
+    padding: 1em 1.5em;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+footer{
+    text-align: center;
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-size: cover;
+    }
+  }
